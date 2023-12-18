@@ -70,8 +70,8 @@ in the API Platform configuration:
 # config/packages/api_platform.yaml
     api_platform:
         defaults:
-        extra_properties:
-            standard_put: true
+            extra_properties:
+                standard_put: true
 ```
 ***
 
